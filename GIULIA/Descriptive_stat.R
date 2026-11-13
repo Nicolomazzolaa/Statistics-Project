@@ -241,3 +241,6 @@ dev.off()
 
 print(round(tapply(dati$tasso, list(dati$causa_breve, dati$fascia_pil), mean), 2))
 
+
+
+
